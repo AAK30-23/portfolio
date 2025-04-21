@@ -23,7 +23,7 @@
 - Английский: Intermediate (B1)  
 
 ## 📊 Проекты
-### 1. [Маркетинговый Анализ Магазина]
+### 1. Маркетинговый Анализ Магазина
 Инструменты: SQL Server, Python, Power BI (визуализация).
 - SQL Server: Запросы и Очистка данных с помощью SQL для получения дополнительной информации.
 *Code:* [`PortfolioProject_MarketingAnalytics.py`](https://github.com/AAK30-23/PortfolioProject_MarketingAnalyticsShop/blob/main/PortfolioProject_MarketingAnalytics.sql)
@@ -46,14 +46,14 @@
 
 ## 🏫 Дополнительная активность 
 Курсы, которые я прошла/прохожу
-- Курс [`Анализ данных просто и доступно`]("https://stepik.org/course/73952/syllabus")
-- Курс [`Анализ данных с Pandas`]("https://stepik.org/course/187506/syllabus")
-- Курс [`Теория вероятностей`]("https://stepik.org/course/3089/syllabus")
-- Курс [`Основы анализа данных в SQL, Python, Power BI, DataLens`]("https://netology.ru/profile/program/spdata-1/schedule")
-- Курс [`Интерактивный курс по SQL`]("https://sql-academy.org/ru/guide")
-- Упражнения по SQL [`Тренажер по SQL`]("https://sql-academy.org/ru/trainer")
-- Упражнения по SQL [`Упражнения по SQL`]("https://sql-ex.ru/index.php?errno=3")
-- Упражнения по SQL [`SQL & Data Interview Questions`]("https://datalemur.com/questions")
+- Курс [`Анализ данных просто и доступно`](https://stepik.org/course/73952/syllabus)
+- Курс [`Анализ данных с Pandas`](https://stepik.org/course/187506/syllabus)
+- Курс [`Теория вероятностей`](https://stepik.org/course/3089/syllabus)
+- Курс [`Основы анализа данных в SQL, Python, Power BI, DataLens`](https://netology.ru/profile/program/spdata-1/schedule)
+- Курс [`Интерактивный курс по SQL`](https://sql-academy.org/ru/guide)
+- Упражнения по SQL [`Тренажер по SQL`](https://sql-academy.org/ru/trainer)
+- Упражнения по SQL [`Упражнения по SQL`](https://sql-ex.ru/index.php?errno=3)
+- Упражнения по SQL [`SQL & Data Interview Questions`](https://datalemur.com/questions)
 - Плейлисты по SQL, Python для анализа данных, PowerBI на YouTube
 
 ## 📈 Что я сейчас изучаю
