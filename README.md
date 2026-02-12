@@ -64,6 +64,17 @@
 <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-6.jpg" alt="Project 1 Image 7" style="width: 45%; margin: 10px;">  
 <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-7.jpg" alt="Project 1 Image 8" style="width: 45%; margin: 10px;">  
 <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-8.jpg" alt="Project 1 Image 9" style="width: 45%; margin: 10px;">
+![Слайд7](https://github.com/user-attachments/assets/7a2a9047-f4e1-4616-a7a1-8d1b68198fb2)
+![Слайд6](https://github.com/user-attachments/assets/17979fcc-fed5-45f7-a4a5-0310745cbd38)
+![Слайд5](https://github.com/user-attachments/assets/f8ec92fa-8816-4a82-95d1-e48c9cc9fb90)
+![Слайд4](https://github.com/user-attachments/assets/5d9473af-7313-4012-862f-18b9820bbbee)
+![Слайд3](https://github.com/user-attachments/assets/a4d2f9fc-b895-4f47-ba9a-b673c76ac02d)
+![Слайд2](https://github.com/user-attachments/assets/3de3b71f-3712-4885-a535-aa5e582adff1)
+![Слайд1](https://github.com/user-attachments/assets/2922f9d1-4db2-4458-bff5-d105e31b23e5)
+![Слайд11](https://github.com/user-attachments/assets/04f23b75-cdf5-4425-89be-8dab45005441)
+![Слайд10](https://github.com/user-attachments/assets/bb19a7ca-b9b7-4745-a308-a48c6a0acef1)
+![Слайд9](https://github.com/user-attachments/assets/eb9e9fdb-20ff-4236-9de2-6b304afbf6e2)
+![Слайд8](https://github.com/user-attachments/assets/2336502f-2cef-451c-a462-f33c714a1a43)
 
 </div>  
 
