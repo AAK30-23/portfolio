@@ -24,11 +24,42 @@
 
 ## 📊 Проекты
 ### 1. Маркетинговый Анализ Магазина
+**Инструменты:** SQL Server, Python, Power BI (визуализация).
+
+- **SQL Server:** Запросы и очистка данных с помощью SQL для получения дополнительной информации.
+  * Применение **CTE (Common Table Expressions)** для поиска дубликатов перед их удалением
+  * Оконные функции (`ROW_NUMBER()`, `AVG() OVER`) для нумерации строк и расчета средних значений
+  * Обработка пропусков: замена NULL на средние значения через `COALESCE`
+  * Нормализация данных: приведение регистра (`UPPER`), удаление лишних пробелов (`REPLACE`)
+  * Разделение составных полей (`CHARINDEX`, `LEFT`, `RIGHT`)
+  * Категоризация цен через `CASE WHEN`
+  * Объединение таблиц (`LEFT JOIN`)
+  * Форматирование дат (`FORMAT`, `CONVERT`)
+  
+  *Code:* [`PortfolioProject_MarketingAnalytics.sql`](https://github.com/AAK30-23/PortfolioProject_MarketingAnalyticsShop/blob/main/PortfolioProject_MarketingAnalytics.sql)
+
+- **Python:** Расширенный анализ настроений.
+  * Подключение к SQL Server через `pyodbc`, выгрузка данных в `pandas`
+  * Обработка пропусков и пустых значений в тексте
+  * Анализ тональности отзывов с помощью **NLTK и VADER** (compound-оценка от -1 до 1)
+  * Категоризация настроений с учетом рейтинга и тональности текста — выявление расхождений (Mixed Positive / Mixed Negative)
+  * Группировка sentiment-оценок по диапазонам
+  * Экспорт обогащенного датасета в CSV (`utf-8-sig` для корректного отображения в Excel)
+  
+  *Code:* [`PortfolioProject_MarketingAnalytics.py`](https://github.com/AAK30-23/PortfolioProject_MarketingAnalyticsShop/blob/main/PortfolioProject_MarketingAnalytics.py)
+
+- **Power BI:** Создание интерактивной информационной панели.
+  * Визуализация ключевых метрик: конверсия, динамика продаж, тональность отзывов
+  * Интерактивные фильтры по категориям товаров, датам и демографии клиентов
+  * Дашборд с анализом сезонности и эффективности маркетинговых кампаний
+
+  
+### 1. Маркетинговый Анализ Магазина
 Инструменты: SQL Server, Python, Power BI (визуализация).
 - SQL Server: Запросы и Очистка данных с помощью SQL для получения дополнительной информации.
-*Code:* [`PortfolioProject_MarketingAnalytics.py`](https://github.com/AAK30-23/PortfolioProject_MarketingAnalyticsShop/blob/main/PortfolioProject_MarketingAnalytics.sql)
+*Code:* [`PortfolioProject_MarketingAnalytics.sql`](https://github.com/AAK30-23/PortfolioProject_MarketingAnalyticsShop/blob/main/PortfolioProject_MarketingAnalytics.sql)
 - Python: Расширенный анализ настроений. Использовала Pandas (анализ), PyODBC (работа с SQL), NLP: NLTK, VADER (анализ тональности).
-*Code:* [`PortfolioProject_MarketingAnalytics.sql`](https://github.com/AAK30-23/PortfolioProject_MarketingAnalyticsShop/blob/main/PortfolioProject_MarketingAnalytics.py)
+*Code:* [`PortfolioProject_MarketingAnalytics.py`](https://github.com/AAK30-23/PortfolioProject_MarketingAnalyticsShop/blob/main/PortfolioProject_MarketingAnalytics.py)
 - Power BI: Создание интерактивной информационной панели.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">  
 
