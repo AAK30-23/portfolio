@@ -55,24 +55,6 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">  
 
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-0.jpg" alt="Project 1 Image 1" style="width: 45%; margin: 10px;">  
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-1.jpg" alt="Project 1 Image 2" style="width: 45%; margin: 10px;">  
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-2.jpg" alt="Project 1 Image 3" style="width: 45%; margin: 10px;">  
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-3.jpg" alt="Project 1 Image 4" style="width: 45%; margin: 10px;">  
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-4.jpg" alt="Project 1 Image 5" style="width: 45%; margin: 10px;">  
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-5.jpg" alt="Project 1 Image 6" style="width: 45%; margin: 10px;">  
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-6.jpg" alt="Project 1 Image 7" style="width: 45%; margin: 10px;">  
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-7.jpg" alt="Project 1 Image 8" style="width: 45%; margin: 10px;">  
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-8.jpg" alt="Project 1 Image 9" style="width: 45%; margin: 10px;">
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-0.jpg" alt="Project 1 Image 1" style="width: 45%; margin: 10px;">
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-1.jpg" alt="Project 1 Image 2" style="width: 45%; margin: 10px;">
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-2.jpg" alt="Project 1 Image 3" style="width: 45%; margin: 10px;">
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-3.jpg" alt="Project 1 Image 4" style="width: 45%; margin: 10px;">
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-4.jpg" alt="Project 1 Image 5" style="width: 45%; margin: 10px;">
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-5.jpg" alt="Project 1 Image 6" style="width: 45%; margin: 10px;">
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-6.jpg" alt="Project 1 Image 7" style="width: 45%; margin: 10px;">
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-7.jpg" alt="Project 1 Image 8" style="width: 45%; margin: 10px;">
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/0585a0e2879dd8e219ace231e2ee12fd-8.jpg" alt="Project 1 Image 9" style="width: 45%; margin: 10px;">
 <img src="https://github.com/user-attachments/assets/7a2a9047-f4e1-4616-a7a1-8d1b68198fb2" alt="Слайд7" style="width: 45%; margin: 10px;">
 <img src="https://github.com/user-attachments/assets/17979fcc-fed5-45f7-a4a5-0310745cbd38" alt="Слайд6" style="width: 45%; margin: 10px;">
 <img src="https://github.com/user-attachments/assets/f8ec92fa-8816-4a82-95d1-e48c9cc9fb90" alt="Слайд5" style="width: 45%; margin: 10px;">
