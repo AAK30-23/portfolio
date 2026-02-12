@@ -1,8 +1,7 @@
 # Курочкина Анастасия - Data Analyst
-[![Email](https://img.shields.io/badge/Email-kurochkina.anastasia11@gmail.com-8B89CC?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:kurochkina.anastasia11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AAK30--23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AAK30-23)
-[![Telegram](https://img.shields.io/badge/Telegram-@AAK019-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@AAK019)
-
+[![Email](https://img.shields.io/badge/Email-kurochkina.anastasia11@gmail.com-8B89CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B89CC&color=5A4C7A)](https://mail.google.com/mail/?view=cm&fs=1&to=kurochkina.anastasia11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AAK30--23-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=000000)](https://github.com/AAK30-23)
+[![Telegram](https://img.shields.io/badge/Telegram-@AAK019-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&color=1A7BB3)](https://t.me/AAK019)
 ## 🎓 Образование
 **РХТУ им. Д.И. Менделеева** (2022-2026)  
 Направление "Информатика и вычислительная техника"
