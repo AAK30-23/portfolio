@@ -1,4 +1,7 @@
 # Курочкина Анастасия - Data Analyst
+[![Email](https://img.shields.io/badge/Email-kurochkina.anastasia11@gmail.com-8B89CC?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:kurochkina.anastasia11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AAK30--23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AAK30-23)
+[![Telegram](https://img.shields.io/badge/Telegram-@AAK019-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@AAK019)
 
 ## 🎓 Образование
 **РХТУ им. Д.И. Менделеева** (2022-2026)  
@@ -124,8 +127,3 @@
 - Упражнения по SQL [`Упражнения по SQL`](https://sql-ex.ru/index.php?errno=3)
 - Упражнения по SQL [`SQL & Data Interview Questions`](https://datalemur.com/questions)
 - Плейлисты по SQL, Python для анализа данных, PowerBI на YouTube
-
-
-## 📫 Контакты
-[![Email](https://img.shields.io/badge/-Email-8B89CC?style=flat&logo=mail.ru&logoColor=white)](mailto:kurochkinaaanastasia@yandex.ru)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/AAK30-23)  
