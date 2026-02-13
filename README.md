@@ -52,7 +52,7 @@
       <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Продажа%20продукта.jpg?raw=true" alt="Продажа продукта" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
     </td>
     <td width="50%" style="padding: 10px; vertical-align: top;">
-      <b>пользователей сайта</b><br>
+      <b>Анализ пользователей сайта</b><br>
       <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Simulative%20Дашборд1.jpg?raw=true" alt="Simulative" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
     </td>
   </tr>
