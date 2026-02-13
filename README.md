@@ -49,7 +49,7 @@
 <details>
 <summary><b>Смотреть ERD-диаграмму БД</b></summary>
 <br>
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Снимок экрана 2026-02-13 115030.png" alt="ERD-диаграмма" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; margin-top: 5px;">
+<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Снимок экрана 2026-02-13 115030.png" alt="ERD-диаграмма" >
 </details>
 
 - **SQL Server:** Запросы и очистка данных с помощью SQL для получения дополнительной информации.
