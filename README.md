@@ -78,7 +78,7 @@
   *Презентация:* [`PortfolioProject_MarketingAnalytics.pptx`](https://github.com/AAK30-23/PortfolioProject_MarketingAnalyticsShop/blob/main/PortfolioProject_MarketingAnalytics.pptx)
 
 <details>
-<summary><b>ПОСМОТРЕТЬ ДАШБОРДЫ </b></summary>
+<summary><b>СМОТРЕТЬ ДАШБОРДЫ </b></summary>
 <br>
 
 **Обзор ключевых метрик**
@@ -96,7 +96,7 @@
 </details>
 
 <details>
-<summary><b>ПОСМОТРЕТЬ ПРЕЗЕНТАЦИЮ ПО ПРОЕКТУ</b></summary>
+<summary><b>СМОТРЕТЬ ПРЕЗЕНТАЦИЮ ПО ПРОЕКТУ</b></summary>
 <br>
 
 <img src="https://github.com/user-attachments/assets/2922f9d1-4db2-4458-bff5-d105e31b23e5" alt="Слайд1" style="width: 100%; margin: 10px 0; border: 1px solid #ddd; border-radius: 4px;">
