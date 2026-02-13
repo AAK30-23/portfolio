@@ -43,6 +43,33 @@
 - **Figma:** базовое понимание для взаимодействия с дизайнерами
 - **ОС:** Windows, Linux (Ubuntu)
 
+---
+## 🟩 **Дашборды**
+<table>
+  <tr>
+    <td width="50%" style="padding: 10px; vertical-align: top;">
+      <b>Продажа продукта</b><br>
+      <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Продажа%20продукта.jpg?raw=true" alt="Продажа продукта" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+    </td>
+    <td width="50%" style="padding: 10px; vertical-align: top;">
+      <b>пользователей сайта</b><br>
+      <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Simulative%20Дашборд1.jpg?raw=true" alt="Simulative" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Смотреть дашборды подробнее</b></summary>
+<br>
+
+**Анализ пользователей сайта**
+<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Simulative%20Дашборд1.jpg?raw=true" alt="Simulative дашборд" style="width: 100%; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 20px;">
+
+**Продажа продукта**
+<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Продажа%20продукта.jpg?raw=true" alt="Продажа продукта" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+
+</details>
+
 ## 🟩 Проекты
 ### 1. Комплексный маркетинговый анализ с использованием SQL, Python и Power BI
 #### Улучшение конверсии и вовлеченности: кейс розничного интернет-магазина
