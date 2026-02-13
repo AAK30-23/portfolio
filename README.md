@@ -177,11 +177,9 @@
 - Выявила ключевые факторы, влияющие на кредитные решения и персонализацию предложений
 - Создала веб-интерфейс
 - Презентаовала и защитила решения перед экспертами
-<details>
-<summary><b>Смотреть демо решения</b></summary>
-<br>
+
 <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/2_ Business-dashboard на gif.gif?raw=true" alt="Демо решения на хакатоне" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; margin-top: 5px;">
-</details>
+
 
 ---
 - Курс [`Анализ данных просто и доступно`](https://stepik.org/course/73952/syllabus)
