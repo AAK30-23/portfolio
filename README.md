@@ -178,6 +178,7 @@
 - Создала веб-интерфейс
 - Презентаовала и защитила решения перед экспертами
 
+https://github.com/annanas-dev/Hack-Change_Alpha/tree/main
 <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/2_ Business-dashboard на gif.gif?raw=true" alt="Демо решения на хакатоне" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; margin-top: 5px;">
 
 
