@@ -26,7 +26,7 @@
 - Планирование, проведение и оценка A/B-тестов
 
 **Инструменты визуализации**
-- **Power BI:** интерактивные дашборды (Power Query, DAX, визуализации)
+- **Power BI/Yandex DataLens:** интерактивные дашборды (Power Query, DAX, визуализации)
 - **Excel:** продвинутые формулы (ВПР/ХПР, СУММЕСЛИМН), сводные таблицы, условное форматирование
 - **Metabase:** дашборды на основе SQL-запросов
 
@@ -56,6 +56,14 @@
       <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Simulative%20Дашборд1.jpg?raw=true" alt="Simulative" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
     </td>
   </tr>
+  <tr>
+    <td width="50%" style="padding: 10px; vertical-align: top;">
+      <b>Сквозная аналитика платных каналов</b><br>
+      <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Снимок%20экрана%202026-02-14%20193212.png?raw=true" alt="Сквозная аналитика" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+    </td>
+    <td width="50%" style="padding: 10px; vertical-align: top;">
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -67,6 +75,9 @@
 
 **Продажа продукта**
 <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Продажа%20продукта.jpg?raw=true" alt="Продажа продукта" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+
+**Сквозная аналитика платных каналов**
+<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Снимок%20экрана%202026-02-14%20193212.png?raw=true" alt="Сквозная аналитика" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
 
 </details>
 
