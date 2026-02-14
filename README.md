@@ -70,13 +70,13 @@
 <summary><b>Смотреть дашборды подробнее</b></summary>
 <br>
 
-**Анализ пользователей сайта**
+**Анализ пользователей сайта** [`Анализ пользователей сайта.bpix`](https://github.com/AAK30-23/portfolio/blob/main/assets/ГЛ4Дашборд.pbix)
 <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Simulative%20Дашборд1.jpg?raw=true" alt="Simulative дашборд" style="width: 100%; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 20px;">
 
-**Продажа продукта**
+**Продажа продукта** [`Продажа продукта.bpix`](https://github.com/AAK30-23/portfolio/blob/main/assets/Продажа%20продукта.pbix)
 <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Продажа%20продукта.jpg?raw=true" alt="Продажа продукта" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
 
-**Сквозная аналитика платных каналов**
+**Сквозная аналитика платных каналов** [`Сквозная аналитика платных каналов`](https://datalens.yandex/rm8ew5f3z9feb)
 <img src="https://github.com/AAK30-23/portfolio/blob/main/assets/Снимок%20экрана%202026-02-14%20193212.png?raw=true" alt="Сквозная аналитика" style="width: 100%; border: 1px solid #ddd; border-radius: 8px;">
 
 </details>
