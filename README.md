@@ -118,7 +118,7 @@
   *Code:* [`PortfolioProject_MarketingAnalytics.py`](https://github.com/AAK30-23/PortfolioProject_MarketingAnalyticsShop/blob/main/PortfolioProject_MarketingAnalytics.py)
 
 - **Power BI:** Создание интерактивного дашборда.
-  * Визуализация ключевых метрик: конверсия, вовлеченность клментов, рейтинг отзывов
+  * Визуализация ключевых метрик: конверсия, вовлеченность клиентов, рейтинг отзывов
   * Интерактивные фильтры по категориям товаров и датам
   * Анализ сезонности и эффективности маркетинговых кампаний
   
