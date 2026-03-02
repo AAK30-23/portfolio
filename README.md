@@ -3,6 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AAK30--23-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=000000)](https://github.com/AAK30-23)
 [![Telegram](https://img.shields.io/badge/Telegram-@AAK019-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&color=1A7BB3)](https://t.me/AAK019)
 
+
 ## 🟩 Образование
 
 **РХТУ им. Д.И. Менделеева** (2022–2026)  
