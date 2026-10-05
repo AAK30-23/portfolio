@@ -213,7 +213,7 @@ https://github.com/annanas-dev/Hack-Change_Alpha/tree/main
 [`Презентация`](https://github.com/AAK30-23/portfolio/blob/main/assets/CupIT2026-АД-Полина_скидывает_ДЗ.pdf)
 [`Модель`](https://github.com/AAK30-23/portfolio/blob/main/assets/CupIT2026-АД-Полина_скидывает_ДЗ.xlsx)
 
-<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/CupIT2026.gif" alt="Демо решения на хакатоне" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; margin-top: 5px;">
+<img src="https://github.com/AAK30-23/portfolio/blob/main/assets/CupIT2026.gif?raw=true" alt="Демо решения на хакатоне" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; margin-top: 5px;">
 
 ---
 - Курс [`Анализ данных просто и доступно`](https://stepik.org/course/73952/syllabus)
