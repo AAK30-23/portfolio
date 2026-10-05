@@ -210,8 +210,8 @@ https://github.com/annanas-dev/Hack-Change_Alpha/tree/main
 - **Результат:** стратегия обеспечивает рост видимости брендов P&G в генеративном поиске на 7%, дополнительную прибыль $181.3 млн за 5 лет, IRR 56.6% и срок окупаемости 3 года
 
 **Стек:** Яндекс.Wordstat, Excel (финансовое моделирование, анализ чувствительности)
-[`Презентация`](https://github.com/AAK30-23/portfolio/blob/main/assets/CupIT2026_Диплом участника.pdf)
-[`Модель`](https://github.com/AAK30-23/portfolio/blob/main/assets/CupIT2026_Диплом участника.pdf)
+[`Презентация`](https://github.com/AAK30-23/portfolio/blob/main/assets/CupIT2026-АД-Полина_скидывает_ДЗ.pdf)
+[`Модель`](https://github.com/AAK30-23/portfolio/blob/main/assets/CupIT2026-АД-Полина_скидывает_ДЗ.xlsx)
 
 ---
 - Курс [`Анализ данных просто и доступно`](https://stepik.org/course/73952/syllabus)
